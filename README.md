@@ -8,6 +8,7 @@ Techniques Applied:
 - Finding and removing duplicates
 - Sorting columns
 - Creating new data frames
+
 Libraries Used:
 - Pandas
 - Numpy
